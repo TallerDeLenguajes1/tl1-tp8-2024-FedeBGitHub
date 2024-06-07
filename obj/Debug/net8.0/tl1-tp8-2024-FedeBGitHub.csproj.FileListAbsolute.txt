@@ -1,0 +1,14 @@
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\bin\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.exe
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\bin\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.deps.json
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\bin\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.runtimeconfig.json
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\bin\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.dll
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\bin\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.pdb
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.AssemblyInfoInputs.cache
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.AssemblyInfo.cs
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.csproj.CoreCompileInputs.cache
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.dll
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\refint\tl1-tp8-2024-FedeBGitHub.dll
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.pdb
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\tl1-tp8-2024-FedeBGitHub.genruntimeconfig.cache
+D:\FedeO\2024\1erCuatrimestre\TALLERdeLENGUAJESI\2doParcial\TpsRealizados\tl1-tp8-2024-FedeBGitHub\obj\Debug\net8.0\ref\tl1-tp8-2024-FedeBGitHub.dll
